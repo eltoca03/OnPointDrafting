@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OnpointDraftingCommands": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2018\\acad.exe"
+    }
+  }
+}
